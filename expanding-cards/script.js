@@ -1,3 +1,5 @@
+//Just a comment.
+
 const panels = document.querySelectorAll('.panel');
 const loneDiv = document.querySelector('.loneDiv');
 
