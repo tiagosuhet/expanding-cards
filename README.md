@@ -1,3 +1,3 @@
 # Expanding-cards:
 
-A web-app to show photo in expanding cards.
+A Web App to show photo in expanding cards.
