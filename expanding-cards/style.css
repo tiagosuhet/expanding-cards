@@ -26,15 +26,11 @@ div#lastDiv {
   margin-bottom: 2rem;
   color: rgb(255, 255, 255);
   padding: 35px;
-
   display: block;
 
   text-align: center;
   font-weight: bold;
-  /* justify-content: center; */
-  /* margin-left: auto;
-  margin-right: auto; */
-}
+ }
 
 .container {
   display: flex;
@@ -78,7 +74,6 @@ div#lastDiv {
   .container {
     width: 100vw;
   }
-
   .panel:nth-of-type(4),
   .panel:nth-of-type(5) {
     display: none;
